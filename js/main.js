@@ -54,12 +54,12 @@ $(function(){
         rowHeight : 270,
         // textAlign: center,
         lastRow : 'nojustify',
-        margins : 100,
+        margins : 90,
         captions: false,
         sizeRangeSuffixes: {
-            140 : '_t', // used with images which are less than 100px on the longest side
-            140 : '_m', // used with images which are between 100px and 240px on the longest side
-            140 : '_n', // ...
+            200 : '_t', // used with images which are less than 100px on the longest side
+            200 : '_m', // used with images which are between 100px and 240px on the longest side
+            200 : '_n', // ...
             // 500 : '',
             // 640 : '_z',
             // 1024 : '_b' // used which images that are more than 640px on the longest side
